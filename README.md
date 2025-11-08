@@ -5,4 +5,4 @@
 
 # minha solução 
 
- ![projeto-pontuação-atletas](caminho/da/imagem.png)
+ ![projeto-pontuação-atletas](./img/solução-js.png)
